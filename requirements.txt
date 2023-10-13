@@ -6,3 +6,5 @@ shapely
 scikit-learn
 tensorflow-directml-plugin
 carla==0.9.13
+matplotlib
+notebook
